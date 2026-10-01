@@ -38,8 +38,7 @@ instalação do GeoEcosystem-EE.
 
 ## Instalação
 
-1. Baixe o arquivo disponível em
-   [`releases/Geoportal_SEMA_MT_GeoLibre_Plugin_V1_0.zip`](releases/Geoportal_SEMA_MT_GeoLibre_Plugin_V1_0.zip).
+1. Baixe o arquivo disponível em: https://github.com/neurojunior/geoportal-sema-mt-geolibre/blob/main/Geoportal_SEMA_MT_GeoLibre_Plugin_V1_0.zip
 2. Abra o **GeoLibre Desktop**.
 3. Acesse **Plugins → Gerenciar plugins → Configurações**.
 4. Em **Instalar a partir de arquivo**, clique em **Escolher .zip**.
