@@ -139,7 +139,7 @@ dos serviços WMS e WFS disponibilizados pelo Geoportal SEMA-MT.
 
 ## Divulgação
 
-https://github.com/neurojunior/geoportal-sema-mt-geolibre/blob/a64a7cdef162707b5cde4061022625fee8f52dc1/Geoportal%20SEMA-MT%20no%20GeoLibre%20Desktop.png
+![Geoportal SEMA-MT funcionando no GeoLibre Desktop](Geoportal%20SEMA-MT%20no%20GeoLibre%20Desktop.png)
 
 ## Créditos
 
