@@ -8,7 +8,7 @@ O plugin organiza, em uma única interface, ferramentas para visualizar camadas
 WMS e baixar bases vetoriais WFS sem exigir Python, servidor local, Docker ou
 instalação do GeoEcosystem-EE.
 
-![Geoportal SEMA-MT funcionando no GeoLibre Desktop](docs/images/geoportal-sema-mt-geolibre.png)
+![Geoportal SEMA-MT no GeoLibre Desktop.png](docs/images/geoportal-sema-mt-geolibre.png)
 
 ## Principais funcionalidades
 
